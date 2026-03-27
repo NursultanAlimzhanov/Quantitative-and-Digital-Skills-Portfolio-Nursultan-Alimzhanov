@@ -1,1 +1,7 @@
+This project focuses on identifying and analyzing the key factors influencing delays in road construction projects using quantitative methods. By applying factor analysis and regression modeling to survey data, the study transforms a large set of variables into meaningful risk dimensions and evaluates their impact on project performance.
 
+This project significantly enhanced my analytical and technical skills in quantitative research and data-driven decision-making. I developed practical experience in applying statistical methods such as Principal Component Analysis (PCA) and Varimax rotation to reduce complex datasets into meaningful factors. Additionally, I improved my ability to interpret factor loadings, assess variable significance, and ensure model reliability by eliminating weak or cross-loading variables.
+
+I also gained hands-on experience in building and refining multiple regression models, including selecting appropriate dependent and independent variables, testing statistical significance, and improving model accuracy through iterative adjustments. This strengthened my understanding of how to link theoretical constructs with real-world data.
+
+Furthermore, the project improved my proficiency in using analytical tools such as Excel for data processing, statistical analysis, and result visualization. It also enhanced my critical thinking, problem-solving, and academic writing skills, particularly in presenting complex quantitative findings in a clear, structured, and professional manner suitable for research and reporting contexts.
